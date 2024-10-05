@@ -5,6 +5,9 @@ import User from './component/User'
 function App() {
   return (
     <div className="container">
+      <h1 className="text-uppercase text-center text-black my-3">
+        Demo Some image screen project Booking Tours
+      </h1>
       <User
         title="Main Functions for user not yet register"
         data={dataUserNotYet}

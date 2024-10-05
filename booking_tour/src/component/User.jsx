@@ -1,5 +1,3 @@
-import React from 'react'
-
 const User = ({ title, data }) => {
   return (
     <div className="border border-primary">
